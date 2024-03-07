@@ -1,0 +1,2 @@
+These are projects that I did for Deep Neural Network course that I took in 2023 on faculty of Mathematics of the University of Warsaw. I did not write all of the code. Credit for creating the homework scenarios goes to teachers who 
+prepped the course. Students were required to fill blanks in the code. Still, those blanks were large and composed of the most important parts of the respective algorithms (like the attention mechanism of a transformer).
